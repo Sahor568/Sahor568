@@ -1,9 +1,5 @@
 # ⚡ System.Initialize("SaHor")
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sishir%20Devkota&fontSize=70&animation=fadeIn" />
-</p>
-
 ## 🌐 Connectivity Matrix
 <p align="left">
 <a href="https://www.linkedin.com/in/shishir-devkota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir-devkota" height="30" width="40" /></a>
