@@ -41,19 +41,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahor568&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahor568&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your professional email)
-- 🌐 Portfolio: (Add if available)
+- 💼 LinkedIn: https://www.linkedin.com/in/shishir-devkota/
+- 📧 Email: shishirdevkota647@gmail.com
+- 🌐 Portfolio: https://shishirdevkota5.com.np/
 
 ---
 
