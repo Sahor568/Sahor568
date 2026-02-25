@@ -22,19 +22,18 @@
 - Python
 - C#
 - SQL
-- JavaScript
+- Java
+- HTML/Css/Js
 
 ### ⚙️ Frameworks & Tools
 - .NET
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- Git & GitHub
-- Docker
+- Fastapi
+- Flask
+- Angular
+- SpringBoot (Maven)
 
 ### 📊 Other Skills
 - Data Analysis
-- Machine Learning
 - System Design
 - Cloud Concepts
 - Crypto & Arbitrage Systems
