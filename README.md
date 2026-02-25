@@ -33,14 +33,6 @@ Based in `Kathmandu, Nepal`, I bridge the gap between complex algorithmic logic 
 
 ---
 
-### 📊 System Status (GitHub Metrics)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shishirdevkota&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirdevkota&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🧠 Terminal Output
 ```bash
 $ sishir --status
