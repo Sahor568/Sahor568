@@ -123,6 +123,10 @@
 
   <br>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=sishirdevkota&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00aa&text_color=39ff14&border_radius=12" width="420"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sishirdevkota&theme=radical&hide_border=true&background=0d1117&stroke=00f0ff&ring=ff00aa&fire=ffff00&currStreakNum=39ff14&sideNums=00f0ff" width="420"/>
+
 </div>
 
 <br>
