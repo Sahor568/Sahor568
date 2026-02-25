@@ -1,51 +1,43 @@
-# 👋 Hi, I'm SaHor (Sishir Devkota)
+<!-- Futuristic Animated Header -->
+<h1 align="center">⚡ SaHor | Sishir Devkota ⚡</h1>
+<h3 align="center">AI Engineer • Technical Project Manager • System Builder</h3>
 
-🚀 AI & Data Science Enthusiast  
-💻 Technical Project Manager  
-📍 Kathmandu, Nepal  
-
----
-
-## 🔥 About Me
-
-- 🔭 Currently working on AI & Data Science projects  
-- 🧠 Interested in Artificial Intelligence, Machine Learning & Automation  
-- 📊 Passionate about Trading Systems & Financial Technology  
-- 💼 Experience in Project Management & Technical Leadership  
-- 🌍 Goal: To work on global AI products and scalable tech solutions  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Enthusiast;Building+Scalable+Systems;FinTech+%26+Automation+Explorer;Turning+Ideas+into+Reality" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### 👨‍💻 Programming
-- Python
-- C#
-- SQL
-- Java
-- HTML/Css/Js
+```yaml
+Name: Sishir Devkota
+Username: Sahor568
+Location: Kathmandu, Nepal
+Focus: AI, Backend Systems, FinTech
+Role: Technical Project Manager
+Goal: Build global-scale intelligent products
+⚙️ Tech Arsenal
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,sql" /> </p>
+🚀 Frameworks & Technologies
+<p> <img src="https://skillicons.dev/icons?i=dotnet,fastapi,flask,angular,spring" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sahor568&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahor568&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/shishir-devkota/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shishirdevkota647@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://shishirdevkota5.com.np/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a> </p>
+🔥 Current Interests
 
-### ⚙️ Frameworks & Tools
-- .NET
-- Fastapi
-- Flask
-- Angular
-- SpringBoot (Maven)
+🤖 Artificial Intelligence & Machine Learning
 
-### 📊 Other Skills
-- Data Analysis
-- System Design
-- Cloud Concepts
-- Crypto & Arbitrage Systems
+📈 Algorithmic Trading Systems
 
----
+🏗 Scalable Backend Architecture
 
-## 📫 Connect With Me
+☁ Cloud & DevOps Fundamentals
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shishir-devkota/
-- 📧 Email: shishirdevkota647@gmail.com
-- 🌐 Portfolio: https://shishirdevkota5.com.np/
+⚡ Philosophy
 
----
+“Code with purpose. Build with vision. Scale with intelligence.”
 
-⭐ *"Building intelligent systems for the future."*
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sahor568&label=Profile%20Views&color=0e75b6&style=flat" /> </p> 
